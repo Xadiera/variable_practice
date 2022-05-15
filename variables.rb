@@ -22,3 +22,20 @@ dog_age = 3
 # "Chief"
 # true
 puts dog_name, dog_age, hungry_dog
+
+# variable lady_name is declared and assigned to the string of "Xadiera"
+lady_name = "Xadiera"
+# variable lady_age is declared and assigned to the Integer 29
+lady_age = 29
+# variable hungry_lady is declared and assigned to the Boolean of true
+hungry_lady = true
+# variable lady_money is declared and assigned to the positive number including a decimal
+lady_money = 3000.00
+
+#Four variables - lady_name, lady_age, hungry_lady, and lady_money are printed out
+# Expected output:
+# "Xadiera"
+# 29
+# true
+# 3000.00
+puts lady_name, lady_age, hungry_lady, lady_money
